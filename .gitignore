@@ -1,0 +1,48 @@
+# IntelliJ IDEA files
+.idea/
+
+# Maven
+target/
+
+# Compiled class file
+*.class
+
+# Compiled source
+*.jar
+
+# Logs
+*.log
+
+# Mac OS files
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+
+# Temporary files
+*.iml
+.idea_modules/
+*.ipr
+*.iws
+*.iml
+*.iws
+*.orig
+*.patch
+*.tmp
+*.tmp.*
+*.log
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Maven specific files
+target/
+!**/src/main/**
+!**/src/test/**
